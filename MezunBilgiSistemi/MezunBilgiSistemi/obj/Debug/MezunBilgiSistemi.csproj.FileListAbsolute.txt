@@ -1,0 +1,21 @@
+c:\users\alkan\documents\visual studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe.config
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.pdb
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Form1.resources
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Properties.Resources.resources
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.exe
+C:\Users\Alkan\Documents\Visual Studio 2013\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.pdb
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe.config
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.exe
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.pdb
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.pdb
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Form1.resources
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Properties.Resources.resources
+C:\Users\user\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116 ödev\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe.config
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116 ödev\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.exe
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116 ödev\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.pdb
